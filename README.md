@@ -1,2 +1,2 @@
 # CreditCardFraud
-Exploring Kaggle's credit card fraud detection dataset.
+Jupyter Notebook exploring Kaggle's credit card fraud detection dataset.
